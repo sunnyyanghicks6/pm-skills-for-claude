@@ -1,7 +1,6 @@
 # Claude Skills Library for Product Managers
 
 A curated set of Claude AI skills organized by PM workflow area.
-Modeled after [mySecond.ai Skills Directory](https://www.mysecond.ai/skills) and enhanced with frameworks from top PM thought leaders.
 
 ---
 
